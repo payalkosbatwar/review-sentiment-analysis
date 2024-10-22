@@ -6,17 +6,17 @@ Objective: Analyze product reviews to classify the sentiment as positive, negati
 Approach: NLP techniques are applied to clean, process, and analyze text data from customer reviews.
 
 ## Tools and Libraries
-Jupyter Notebook: The project is implemented in a Jupyter Notebook
-Python Libraries:
-NumPy: For numerical computations.
-Pandas: For data manipulation and analysis.
-nltk: For natural language processing tasks (tokenization, stopwords, etc.).
-TextBlob: For simple sentiment analysis.
-re: For regular expressions to clean text data.
-WordCloud: For visualizing word frequencies.
-Seaborn: For creating visualizations.
-Cufflinks: For interactive plots.
-VADER Sentiment Analyzer from vaderSentiment: For more advanced sentiment scoring.
+* Jupyter Notebook: The project is implemented in a Jupyter Notebook
+* Python Libraries:
+1. NumPy: For numerical computations.
+2. Pandas: For data manipulation and analysis.
+3. nltk: For natural language processing tasks (tokenization, stopwords, etc.).
+4. TextBlob: For simple sentiment analysis.
+5. re: For regular expressions to clean text data.
+6. WordCloud: For visualizing word frequencies.
+7. Seaborn: For creating visualizations.
+8. Cufflinks: For interactive plots.
+9. VADER Sentiment Analyzer from vaderSentiment: For more advanced sentiment scoring.
 
 ## Steps in the Analysis
 1. Data Loading: Load the dataset containing product reviews.
