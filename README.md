@@ -2,8 +2,8 @@
 This project performs sentiment analysis on product reviews to determine whether the sentiment expressed is positive, negative, or neutral. Natural Language Processing (NLP) techniques are used to analyze customer feedback and derive insights into how customers perceive products.
 
 ## Project Overview
-Objective: Analyze product reviews to classify the sentiment as positive, negative, or neutral.
-Approach: NLP techniques are applied to clean, process, and analyze text data from customer reviews.
+* Objective: Analyze product reviews to classify the sentiment as positive, negative, or neutral.
+* Approach: NLP techniques are applied to clean, process, and analyze text data from customer reviews.
 
 ## Tools and Libraries
 * Jupyter Notebook: The project is implemented in a Jupyter Notebook
