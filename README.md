@@ -27,9 +27,9 @@ VADER Sentiment Analyzer from vaderSentiment: For more advanced sentiment scorin
 6. Result Evaluation: Evaluated the sentiment scores and analyzed the overall distribution of sentiments in the reviews.
 
 ## Key Features
-Natural Language Processing: Leveraged NLP techniques to process text data.
-Sentiment Classification: Utilized both TextBlob and VADER Sentiment Analyzer to classify the sentiment.
-Visualizations: Created word clouds and other visualizations using Seaborn and Cufflinks to better understand the data.
+* Natural Language Processing: Leveraged NLP techniques to process text data.
+* Sentiment Classification: Utilized both TextBlob and VADER Sentiment Analyzer to classify the sentiment.
+* Visualizations: Created word clouds and other visualizations using Seaborn and Cufflinks to better understand the data.
 
 ## How to Use
 Clone the repository and run the Jupyter notebook to perform sentiment analysis on product reviews:
