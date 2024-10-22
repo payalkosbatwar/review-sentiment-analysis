@@ -19,13 +19,12 @@ Cufflinks: For interactive plots.
 VADER Sentiment Analyzer from vaderSentiment: For more advanced sentiment scoring.
 
 ## Steps in the Analysis
-Data Loading: Load the dataset containing product reviews.
-Data Cleaning: Preprocess the reviews by removing special characters, stopwords, and unwanted text.
-Exploratory Data Analysis (EDA): Generate visualizations to explore the distribution of reviews and common words.
-Sentiment Analysis:
-Applied TextBlob and VADER Sentiment Analyzer to classify reviews into positive, negative, or neutral sentiments.
-Word Clouds: Created word clouds to visualize frequently used words in positive and negative reviews.
-Result Evaluation: Evaluated the sentiment scores and analyzed the overall distribution of sentiments in the reviews.
+1. Data Loading: Load the dataset containing product reviews.
+2. Data Cleaning: Preprocess the reviews by removing special characters, stopwords, and unwanted text.
+3. Exploratory Data Analysis (EDA): Generate visualizations to explore the distribution of reviews and common words.
+4. Sentiment Analysis: Applied TextBlob and VADER Sentiment Analyzer to classify reviews into positive, negative, or neutral sentiments.
+5. Word Clouds: Created word clouds to visualize frequently used words in positive and negative reviews.
+6. Result Evaluation: Evaluated the sentiment scores and analyzed the overall distribution of sentiments in the reviews.
 
 ## Key Features
 Natural Language Processing: Leveraged NLP techniques to process text data.
