@@ -6,7 +6,7 @@ Objective: Analyze product reviews to classify the sentiment as positive, negati
 Approach: NLP techniques are applied to clean, process, and analyze text data from customer reviews.
 
 ## Tools and Libraries
-Jupyter Notebook: The project is implemented in a Jupyter Notebook.
+Jupyter Notebook: The project is implemented in a Jupyter Notebook
 Python Libraries:
 NumPy: For numerical computations.
 Pandas: For data manipulation and analysis.
